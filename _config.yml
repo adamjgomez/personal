@@ -3,10 +3,10 @@ title: Jekyll & Bootstrap 4
 email: adamjgomez@gmail.com
 description: >
   Jekyll & Bootstrap 4
-baseurl: "/jekyll-bootstrap-4"
+baseurl: "/personal"
 url: "http://adamjgomez.github.io"
 twitter_username:
-github_username:  pmsaue0
+github_username:  adamjgomez
 # Build Settings
 sass:
   sass_dir:
