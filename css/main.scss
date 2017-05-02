@@ -5,4 +5,5 @@ $baseurl: '{{ site.baseurl }}';
 
 @import 'bootstrap-variable-overrides';
 @import 'vendor/bootstrap/bootstrap';
-@import 'theme/your-theme'
+@import 'theme/your-theme';
+@import 'adams-favourite-scss';
