@@ -1,10 +1,10 @@
 # Site Settings
 title: Jekyll & Bootstrap 4
-email: psauerbeck@gmail.com
+email: adamjgomez@gmail.com
 description: >
   Jekyll & Bootstrap 4
 baseurl: "/jekyll-bootstrap-4"
-url: "http://pmsaue0.github.io"
+url: "http://adamjgomez.github.io"
 twitter_username:
 github_username:  pmsaue0
 # Build Settings
